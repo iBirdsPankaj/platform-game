@@ -11,7 +11,7 @@ function App() {
 	const [usersList, setUsersList] = useState([]);
 
 
-	//	 to manage the component life cycle
+	//	 to manage the component life cycle 
 	useEffect(() => {
 
 	}, []);
